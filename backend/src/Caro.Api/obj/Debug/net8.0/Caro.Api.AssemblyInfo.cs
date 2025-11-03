@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Caro.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7e74df8284635f818c0e8055fb2b1549923e18d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Caro.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Caro.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

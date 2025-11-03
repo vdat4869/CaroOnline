@@ -1,0 +1,11 @@
+/app/Caro.Core/bin/Debug/net8.0/Caro.Core.deps.json
+/app/Caro.Core/bin/Debug/net8.0/Caro.Core.dll
+/app/Caro.Core/bin/Debug/net8.0/Caro.Core.pdb
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.GeneratedMSBuildEditorConfig.editorconfig
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.AssemblyInfoInputs.cache
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.AssemblyInfo.cs
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.csproj.CoreCompileInputs.cache
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.dll
+/app/Caro.Core/obj/Debug/net8.0/refint/Caro.Core.dll
+/app/Caro.Core/obj/Debug/net8.0/Caro.Core.pdb
+/app/Caro.Core/obj/Debug/net8.0/ref/Caro.Core.dll

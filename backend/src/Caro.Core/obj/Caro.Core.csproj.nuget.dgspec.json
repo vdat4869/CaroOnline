@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\laptrinhmang\\backend\\backend\\src\\Caro.Core\\Caro.Core.csproj": {}
+    "/app/Caro.Core/Caro.Core.csproj": {}
   },
   "projects": {
-    "C:\\laptrinhmang\\backend\\backend\\src\\Caro.Core\\Caro.Core.csproj": {
+    "/app/Caro.Core/Caro.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\laptrinhmang\\backend\\backend\\src\\Caro.Core\\Caro.Core.csproj",
+        "projectUniqueName": "/app/Caro.Core/Caro.Core.csproj",
         "projectName": "Caro.Core",
-        "projectPath": "C:\\laptrinhmang\\backend\\backend\\src\\Caro.Core\\Caro.Core.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\laptrinhmang\\backend\\backend\\src\\Caro.Core\\obj\\",
+        "projectPath": "/app/Caro.Core/Caro.Core.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/app/Caro.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.415/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

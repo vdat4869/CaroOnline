@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Caro.Core
-build_property.ProjectDir = C:\laptrinhmang\backend\backend\src\Caro.Core\
+build_property.ProjectDir = /app/Caro.Core/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

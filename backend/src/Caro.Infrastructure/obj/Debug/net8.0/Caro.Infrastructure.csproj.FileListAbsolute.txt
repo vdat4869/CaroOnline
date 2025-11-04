@@ -1,0 +1,17 @@
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Infrastructure.deps.json
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Infrastructure.runtimeconfig.json
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Infrastructure.dll
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Infrastructure.pdb
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Core.dll
+/app/Caro.Infrastructure/bin/Debug/net8.0/Caro.Core.pdb
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.csproj.AssemblyReference.cache
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.AssemblyInfoInputs.cache
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.AssemblyInfo.cs
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.csproj.CoreCompileInputs.cache
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Inf.78692584.Up2Date
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.dll
+/app/Caro.Infrastructure/obj/Debug/net8.0/refint/Caro.Infrastructure.dll
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.pdb
+/app/Caro.Infrastructure/obj/Debug/net8.0/Caro.Infrastructure.genruntimeconfig.cache
+/app/Caro.Infrastructure/obj/Debug/net8.0/ref/Caro.Infrastructure.dll

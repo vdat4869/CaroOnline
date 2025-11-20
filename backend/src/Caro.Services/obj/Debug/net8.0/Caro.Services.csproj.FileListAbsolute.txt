@@ -1,0 +1,17 @@
+/app/Caro.Services/bin/Debug/net8.0/Caro.Services.deps.json
+/app/Caro.Services/bin/Debug/net8.0/Caro.Services.dll
+/app/Caro.Services/bin/Debug/net8.0/Caro.Services.pdb
+/app/Caro.Services/bin/Debug/net8.0/Caro.Core.dll
+/app/Caro.Services/bin/Debug/net8.0/Caro.Infrastructure.dll
+/app/Caro.Services/bin/Debug/net8.0/Caro.Core.pdb
+/app/Caro.Services/bin/Debug/net8.0/Caro.Infrastructure.pdb
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.csproj.AssemblyReference.cache
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.GeneratedMSBuildEditorConfig.editorconfig
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.AssemblyInfoInputs.cache
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.AssemblyInfo.cs
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.csproj.CoreCompileInputs.cache
+/app/Caro.Services/obj/Debug/net8.0/Caro.Ser.9A80290E.Up2Date
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.dll
+/app/Caro.Services/obj/Debug/net8.0/refint/Caro.Services.dll
+/app/Caro.Services/obj/Debug/net8.0/Caro.Services.pdb
+/app/Caro.Services/obj/Debug/net8.0/ref/Caro.Services.dll
